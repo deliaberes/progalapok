@@ -1,0 +1,38 @@
+.container
+{
+    margin: 5%;
+    background-color: cyan;
+    padding: 15px;
+}
+
+h1
+{
+    font-style: italic;
+    text-align: center;
+} 
+
+aside
+{
+    width: 95px;
+    height: 95px;
+    font-size: 14px;
+    background-color: white;
+    padding: 10px;
+    float: left;
+    margin-right: 10px;
+    border-right: 6px; 
+    border-right-style: solid; 
+    border-right-color: goldenrod;
+}
+
+#span
+{
+    font-weight: bold;
+
+}
+    
+
+
+
+
+
